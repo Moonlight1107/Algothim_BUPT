@@ -1,2 +1,2 @@
-# Algothim_BUPT
+# Algorithm_BUPT
 北邮OJ
